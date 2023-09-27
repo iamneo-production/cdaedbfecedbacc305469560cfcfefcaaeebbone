@@ -1,0 +1,8 @@
+.greet
+{
+    display: flex;
+}
+button{
+    background-color: greenyellow;
+    width: 20%;
+}
