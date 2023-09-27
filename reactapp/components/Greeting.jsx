@@ -3,6 +3,14 @@ import React from 'react';
 const Greeting  =(props) =>
 {
     return(
-        <div> Name: {props.name} </div>
+        <div>
+            <h1>Hey!!! Greeting</h1>
+            <form>
+                <label>
+                    
+                </label>
+            </form>
+            <div> Name: {props.name} </div>
+        </div>
     )
 }
